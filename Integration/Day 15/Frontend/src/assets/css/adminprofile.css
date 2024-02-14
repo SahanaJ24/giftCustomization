@@ -1,0 +1,53 @@
+.adminprofile-all{
+    /* background-color: aqua; */
+    height: 98vh;
+    display: flex;
+    justify-content: space-around;
+}
+.adminprofile-image{
+    background-color: white;
+    height: 53vh;
+    width: 22%;
+    margin-top: 3%;
+    padding-top: 0%;
+    text-align: center;
+    
+}
+.adminprofile-details{
+    background-color: white;
+    height: 90vh;
+    width: 65%;
+    margin-top: 3%;
+}
+.admin-image{
+    width: 70%;
+    height: 30vh;
+    background-color: rgb(231, 234, 234);
+    border-radius: 50%;
+    margin-left: 15%;
+    /* padding: 20px; */
+    /* background-image: url('../images/icon.jpg'); */
+}
+.admin-button{
+    height: 6vh;
+    width: 40%;
+    background-color: rgb(9, 194, 241);
+    border-color: rgb(9, 194, 241);
+    border-radius: 3px;
+    color: white;
+}
+.adminprofile-details input{
+    height: 7vh;
+    width: 80%;
+}
+.adminprofile-details button{
+    border-radius: 3px;
+    height: 6vh;
+    width: 13%;
+    background-color: rgb(9, 194, 241);
+    border-color: rgb(9, 194, 241);
+    color: white;
+}
+.admin-details{
+    padding-left: 10%;
+}

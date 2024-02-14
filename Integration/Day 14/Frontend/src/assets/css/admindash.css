@@ -1,0 +1,12 @@
+.admin-entire{
+    background-color: aqua;
+}
+.admin-left{
+    /* width: 20%; */
+    float: left;
+}
+.admin-right{
+    /* width: 80%; */
+    float: right;
+    /* background-color: antiquewhite; */
+}

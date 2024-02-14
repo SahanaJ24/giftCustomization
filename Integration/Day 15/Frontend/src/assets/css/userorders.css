@@ -1,0 +1,31 @@
+.userorders-all{
+    /* background-color: aqua; */
+    height: 100vh;
+}
+.userorder-product{
+    height: 23vh;
+    background-color: rgb(244, 242, 242);
+    border-radius: 5px;
+    width: 75%;
+    display: flex;
+    /* justify-content: space-evenly; */
+    margin-top: 1%;
+    margin-left: 10%;
+}
+.userorder-image{
+    height: 20vh;
+    width: 25%;
+    /* background-color: beige; */
+}
+.userorder-check select{
+    height: 7vh;
+    width: 120%;
+    text-align: center;
+    border-radius: 20px;
+}
+.userorder-right{
+    justify-content: space-around;
+    display: flex;
+    /* background-color: aquamarine; */
+    width: 75%;
+}

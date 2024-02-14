@@ -1,0 +1,48 @@
+
+.gift-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .input-field {
+    margin: 10px;
+  }
+  
+  .input-field input {
+    padding: 8px;
+    margin-right: 10px;
+  }
+  
+  .table-container {
+    margin-top: 20px;
+  }
+  
+  .gift-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .gift-table, .gift-th, .gift-td {
+    border: 1px solid #ddd;
+  }
+  
+  .gift-th, .gift-td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .gift-th {
+    background-color: #f2f2f2;
+  }
+  
+  .action-buttons button {
+    margin-right: 5px;
+    cursor: pointer;
+    border: 1px solid #121111;
+}
+
+.action-buttons button:hover {
+    background-color: #007bff;
+   color: #fff;
+  }
+  

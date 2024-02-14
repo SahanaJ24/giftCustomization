@@ -1,0 +1,44 @@
+.product-all{
+    /* background-color: brown; */
+    font-size: large;
+}
+.product-left{
+    width: 60%;
+    float: left;
+    /* background-color: aquamarine; */
+    height: 83vh;
+}
+.product-right{
+    width: 40%;
+    height: 83vh;
+    float: right;
+    /* background-color: beige; */
+}
+.product-image{
+    background-image: url("../images//item4.png");
+    /* background-color: antiquewhite; */
+    width: 70%;
+    margin-left: 14%;
+    margin-top: 3%;
+    height: 70vh;
+    background-size: cover;
+}
+.product-content{
+    /* background-color: aqua; */
+    width: 70%;
+    margin-top: 3%;
+}
+.product-content button{
+    height: 9vh;
+    width: 90%;
+    background-color: rgb(239, 80, 80);
+    border-color: rgb(239, 80, 80);
+    color: white;
+    font-size: large;
+}
+.product-headline{
+    color: rgb(230, 45, 45);
+}
+.product-specification{
+    padding: 8%;
+}

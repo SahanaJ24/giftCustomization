@@ -1,0 +1,49 @@
+.usernav-header{
+    background-color: rgb(251, 251, 252);
+    height: 15vh;
+    
+    display: flex;
+    justify-content: space-between;
+    /* padding: 16px; */
+    box-shadow: 0 1px 3px -2px black;
+    width: 100%;
+    /* margin-bottom: 10%; */
+    /* gap: 90px; */
+    align-items: center;
+    box-shadow: rgb(43 52 69 / 10%) 0px 4px 16px;
+    
+}
+.usernav-left{
+    width: 50%;
+    /* background-color: red; */
+    display: flex;
+    height:100%;
+    align-items: center;
+    font-size: larger;
+    font-weight: 500;
+}
+.usernav-right{
+    /* background-color: yellow; */
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: large;
+}
+.usernav-right p:hover{
+    background-color: rgb(237, 233, 233);
+    border-radius: 20px;
+}
+.usernav-right p{
+    height: 4vh;
+    color: black;
+}
+.usernav-right button{
+    height: 7vh;
+    width: 15vh;
+    border-radius: 50px;
+}
+.usernav-right button:active{
+    background-color: rgb(214, 218, 218);
+}

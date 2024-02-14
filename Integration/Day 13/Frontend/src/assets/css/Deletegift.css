@@ -1,0 +1,18 @@
+.deletegift-contents{
+    /* background-color: aquamarine; */
+    width: 40%;
+    padding-left: 20%;
+    margin-top: 2%;
+    margin-left: 15%;
+}
+.deletegift-contents input{
+    height: 6vh;
+    width: 50%;
+}
+.deletegift-button{
+    height: 6vh;
+    width: 17%;
+    background-color: rgb(221, 21, 21);
+    border-color: rgb(221, 21, 21);
+    color: white;
+}

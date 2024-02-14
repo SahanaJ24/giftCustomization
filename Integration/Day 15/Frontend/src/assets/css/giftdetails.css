@@ -1,0 +1,24 @@
+
+
+.giftdetails-content input{
+    height: 7vh;
+    width: 50%;
+}
+.giftdetails-content textarea{
+    height: 18vh;
+    width: 50%;
+}
+.giftdetails-content{
+    /* font-size: larger; */
+    height: 80vh;
+    /* background-color: aqua; */
+    padding-left: 30%;
+    padding-top: 1%;
+}
+.gift-button{
+    height: 6vh;
+    width: 17%;
+    background-color: rgb(53, 132, 39);
+    border-color: rgb(53, 132, 39);
+    color: white;
+}

@@ -1,0 +1,42 @@
+/* aduser.css */
+
+/* Main container */
+.users-content {
+    background-color: #f0f0f0; /* Light gray background */
+    height: 100%; /* Take up full height of the container */
+    padding: 20px; /* Add padding for better spacing */
+}
+
+/* Table styles */
+.users-table-container {
+    overflow-x: auto; /* Enable horizontal scrolling if necessary */
+}
+
+.user-table {
+    width: 100%; /* Take up full width of the container */
+    border-collapse: collapse; /* Collapse borders between table cells */
+}
+
+/* Table header styles */
+.user-th {
+    background-color: #f5f5f5; /* Light gray background for header cells */
+    padding: 10px; /* Add padding for better spacing */
+    border: 1px solid #ddd; /* Add border */
+}
+
+/* Table row styles */
+.user-tr {
+    border: 1px solid #ddd; /* Add border */
+}
+
+/* Table data cell styles */
+.user-td {
+    padding: 10px; /* Add padding for better spacing */
+    border: 1px solid #ddd; /* Add border */
+}
+
+/* Main table row (header) styles */
+.user-tr-main {
+    background-color: #e0e0e0; /* Darker gray background for main table row */
+    font-weight: bold; /* Make text bold */
+}

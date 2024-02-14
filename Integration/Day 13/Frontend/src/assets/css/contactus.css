@@ -1,0 +1,39 @@
+.contact-all{
+    background-color: rgb(244, 242, 242);
+    height: 100vh;
+    /* margin-top: 2vh; */
+}
+.contact-center{
+    /* background-color: rgb(173, 173, 173); */
+    /* background-color: rgb(46, 125, 133); */
+    height: 100vh;
+    margin-left: 75vh;
+    margin-right: 75vh;
+    /* text-align: center; */
+    padding: 1vh;
+}
+.contact-form input{
+    height: 5vh;
+    width: 40vh;
+    background-color: rgb(231, 229, 229);
+}
+.contact-form select{
+    height: 6vh;
+    width: 35vh;
+    background-color: rgb(231, 229, 229);
+    border-color: white;
+
+}
+.contact-form textarea{
+    height: 14vh;
+    width: 41vh;
+    background-color: rgb(231, 229, 229);
+
+}
+.contact-form button{
+    background-color: rgb(173, 71, 71);
+    color: white;
+    height: 7vh;
+    width: 13vh;
+    border-color: rgb(173, 71, 71);
+}

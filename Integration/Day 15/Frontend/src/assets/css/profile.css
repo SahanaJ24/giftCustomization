@@ -1,0 +1,35 @@
+.profile-entire{
+    background-color: rgb(255, 255, 255);
+    height: 100vh;
+}
+.profile-left{
+    background-color: rgb(44, 42, 89);
+    height: 100vh;
+    width: 17%;
+    float: left;
+}
+.profile-left p{
+    color: white;
+    text-align: center;
+    margin-top: 2vh;
+    height: 5vh;
+    padding-top: 5%;
+}
+.profile-left p:hover{
+    color: black;
+    background-color: azure;
+    border-radius: 20px;
+}
+.profile-left button{
+    height: 7vh;
+    width: 39vh;
+    background-color: rgb(232, 234, 234);
+    border-color: white;
+    border-radius: 8px;
+}
+.profile-right{
+    background-color: rgb(230, 228, 228);
+    height: 100vh;
+    width: 83%;
+    float: right;
+}

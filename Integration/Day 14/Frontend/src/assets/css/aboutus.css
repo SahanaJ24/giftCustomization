@@ -1,0 +1,46 @@
+.about-entire{
+    background-color: rgb(236, 233, 233);
+    height: 100vh;
+    padding-top: 5vh;
+    font-size: 10pt;
+    /* background-image: url('../images/wallpaper1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+.about-left{
+    width: 45%;
+    float: left;
+    height: 75vh;
+    /* background-color: red; */
+}
+.aboutleft-image{
+        margin-left: 20%;
+        margin-top: 4%;
+        background-image: url('../images//aboutus.jpg');
+        background-size: cover;
+        background-position: center;
+        width: 60%;
+        height: 70vh;
+}
+.contactleft-image{
+    margin-left: 20%;
+        margin-top: 4%;
+        background-image: url('../images//contact.jpeg');
+        background-size: cover;
+        background-position: center;
+        width: 60%;
+        height: 70vh;
+}
+.about-right{
+    /* background-color: rgb(234, 233, 232); */
+    width: 55%;
+    float: right;
+    height: 82vh;
+
+}
+.about-right h1,h2,h3{
+    padding: 2vh;
+}
+.about-content{
+    padding: 4vh;
+}

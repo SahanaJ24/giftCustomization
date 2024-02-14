@@ -1,0 +1,31 @@
+.usersidebar-all{
+    background-color: blue;
+}
+.usersidebar-left{
+    width: 17%;
+    height: 85vh;
+    background-color: rgb(44, 42, 89);
+    overflow-y: scroll;
+    float: left;
+    color: white;
+}
+.usersidebar-right{
+    width: 83%;
+    background-color: aquamarine;
+    float: right;
+}
+.usersidebar-data p{
+    margin-top: 2vh;
+    height: 6vh;
+    width: 35.3vh;
+    text-align: center;
+    padding-top: 3%;
+}
+.usersidebar-data p:hover{
+    background-color: azure;
+    border-radius: 20px;
+    color: black;
+}
+.usersidebar-data button:active{
+    background-color: rgb(222, 220, 220);
+}

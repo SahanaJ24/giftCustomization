@@ -1,0 +1,131 @@
+/* register.css */
+
+/* Container styles */
+.register-all {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+.reg-container {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 800px;
+    height: 600px;
+    display: flex;
+}
+
+/* Image styles */
+.register-image {
+    background-image: url('../images/login3.jpg');
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    flex: 1; /* Take up remaining space */
+}
+
+/* Form field styles */
+.reg-fields {
+    padding: 30px;
+    flex: 1; /* Take up remaining space */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.reg-fields form {
+    display: flex;
+    flex-direction: column;
+  }
+
+.reg-fields input {
+    height: 40px;
+    padding: 0 15px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.reg-fields button {
+    height: 40px;
+    /* width: 100px; */
+    border: none;
+    border-radius: 5px;
+    background-color: #2d7239;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.reg-fields button:hover {
+    background-color: #2c7e2c; /* Darker green on hover */
+}
+
+/* Error message styles */
+.error {
+    color: red;
+    font-size: 14px;
+}
+
+/* Link styles */
+.reg-fields p {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.reg-fields p a {
+    color: blue;
+    text-decoration: none;
+}
+
+.reg-fields p a:hover {
+    text-decoration: underline;
+}
+
+  
+  
+  /* Rest of your existing CSS for registration form */
+  
+
+
+/* .register-all {
+    background-size: cover;
+    height: 70vh;
+    width: 100%;
+    text-align: center;
+}
+
+.reg-container {
+    background-color: rgb(237, 235, 236);
+    height: 100%;
+    width: 40%;
+    margin-left: 30%;
+    padding-top: 1%;
+    margin-top: 5%;
+}
+
+.reg-fields {
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 5%;
+    height: 50vh;
+    margin-top: 0%;
+}
+
+.reg-fields input {
+    height: 45px;
+    width: 65%;
+}
+
+.reg-fields button {
+    height: 45px;
+    width: 65%;
+    background-color: rgb(59, 169, 59);
+    border-color: rgb(59, 169, 59);
+} */

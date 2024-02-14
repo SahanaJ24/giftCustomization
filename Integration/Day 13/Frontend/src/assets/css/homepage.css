@@ -1,0 +1,62 @@
+.homepage-entire{
+    height: auto;
+}
+.homepage-banner{
+    height: 72vh;
+    background-image: url("../images/banner.jpg");
+}
+.homepage-categories{
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.homepage-cat{
+    border-radius: 50%;
+    height: 30vh; 
+}
+
+.homepage-cat-card{
+    height: 37vh;
+    width: 14%;
+    text-align: center;
+    font-size:small;
+}
+.homepage-deals{
+    height: 45vh;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    
+}
+.homepage-deal1{
+    background-image: url('../images/deal2.jpg');
+    height: 45vh;
+    width: 81vh;
+}
+.homepage-deal2{
+    background-image: url('../images/deal1.jpg');
+    height: 45vh;
+    width: 81vh;
+}
+.homepage-bestsellers{
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.homepage-p{
+    font-size:larger;
+    color: brown;
+    padding-left: 11%;
+    font-weight: 800;
+}
+.homepage-p-viewall{
+    text-align: right;
+    padding-right: 11%;
+    text-decoration: underline;
+}
+.homepage-footer{
+    height: 27vh;
+    background-image: url('../images/footer.jpg');
+}

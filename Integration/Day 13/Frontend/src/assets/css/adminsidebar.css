@@ -1,0 +1,56 @@
+.adminsidebar-all{
+    background-color: blue;
+}
+.adminsidebar-left{
+    width: 18%;
+    height: 100vh;
+    background-color: rgb(44, 42, 89);
+    overflow-y: scroll;
+    float: left;
+    color: white;
+}
+.adminsidebar-right{
+    width: 82%;
+    background-color: rgb(238, 240, 239);
+    float: right;
+    overflow-y: scroll;
+    height: 100vh;
+}
+.adminsidebar-data{
+    margin-top: 2vh;
+
+}
+.adminsidebar-data p{
+    height: 6vh;
+    width: 37.8vh;
+    margin-bottom: 5%;
+    text-align: center;
+    padding-top: 4%;
+}
+.adminsidebar-data p:hover{
+    background-color: azure;
+    border-radius: 20px;
+    color: black;
+}
+.adminsidebar-data button:active{
+    background-color: rgb(222, 220, 220);
+}
+.admin-users{
+    width: 90%;
+    height: 35vh;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.adminright-data{
+    margin-top: 1%;
+    font-size: x-large;
+    background-color: rgb(189, 189, 187);
+    height: 26vh;
+    width: 27%;
+    border-radius: 15px;
+    align-items: center;
+    text-align: center;
+    padding-top: 3%;
+}

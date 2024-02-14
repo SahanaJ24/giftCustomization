@@ -1,0 +1,36 @@
+.item-entire{
+    background-color: rgb(255, 255, 255);
+    height: 60vh;
+    /* height: 53vh; */
+    /* width: 45vh; */
+    width: 45vh;
+    border-style:solid;
+    border-color: rgb(225, 224, 224);
+    border-radius: 2%;
+    margin: 2vh;
+    
+}
+.item-image{
+    /* background-color: aqua; */
+    height: 32vh;
+    width: 100%;
+    object-fit: cover;
+}
+.item-desc{
+    /* background-color: beige; */
+    height: 25vh;
+    /* padding-top: 8%; */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 1vh;
+    box-sizing: border-box;
+    
+}
+.item-desc-p1{
+    font-weight: 600;
+}
+.item-desc-p2{
+    color: rgb(75, 74, 74);
+}
+.item-desc-p3{
+    color: brown;
+}

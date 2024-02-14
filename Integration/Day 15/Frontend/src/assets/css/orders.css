@@ -1,0 +1,35 @@
+.orders-contents{
+    /* background-color: rgb(204, 206, 206); */
+    height: 88vh;
+    /* display: flex; */
+    justify-content: space-around; 
+    /* width: 100%; */
+    padding-top: 5%;
+    padding-left: 7%;
+}
+.orders-table{
+    width: 90%;
+    border-collapse: collapse;
+}
+.orders-th,.orders-tr,.orders-table,.orders-tr-main{
+    border: 2px solid #d8d8d8dd;
+    height: 8vh;
+    text-align: center;
+}
+.orders-tr-main{
+    background-color: rgb(174, 174, 174);
+}
+.orders-contents select{
+    height: 6vh;
+    width: 60%;
+    text-align: center;
+    border-radius: 20px;
+}
+.orders-contents th,tr,td{
+    border: 2px solid #d8d8d8dd;
+    height: 8vh;
+    text-align: center;
+}
+.orders-tr-main{
+    background-color: rgb(174, 174, 174);
+}
